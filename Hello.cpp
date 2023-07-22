@@ -1,7 +1,8 @@
 #include <iostream>
+#include "World.hpp"
 
 int main () 
 {
-   std::cout << " Hello C++ " << std::endl;
+   print("Hello C++");
    return 0;
 }
